@@ -17,4 +17,4 @@ format = "<label>"
 ```
 
 Here's a screenshot of the module in action. It's the center module.  
-![Polybar screenshot](unkown.png)
+![Polybar screenshot](unknown.png)
