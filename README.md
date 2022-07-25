@@ -15,3 +15,6 @@ type = custom/script
 exec = ${HOME}/.config/polybar/polybar_scripts/polybar-controller-power.sh
 format = "<label>"
 ```
+
+Here's a screenshot of the module in action. It's the center module.  
+![Polybar screenshot](unkown.png)
